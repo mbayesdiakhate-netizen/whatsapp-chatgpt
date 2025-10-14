@@ -1,5 +1,7 @@
 # GPT + DALL-E + WhatsApp = AI Assistant 🚀
 
+This project is unmaintained, looking for maintainers!
+
 ![Docker](https://github.com/askrella/whatsapp-chatgpt/actions/workflows/docker.yml/badge.svg)
 ![Prettier](https://github.com/askrella/whatsapp-chatgpt/actions/workflows/prettier.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
